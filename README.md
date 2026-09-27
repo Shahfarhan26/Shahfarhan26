@@ -2,10 +2,9 @@
 
 ### B.Tech CSE | C# | Azure | Cloud & DevOps
 
-I'm a Computer Science graduate currently focusing on C# and backend development with .NET.
+Computer Science graduate currently focusing on C# and backend development with .NET.
 
 ### Currently Learning
-- C#
 - ASP.NET Core
 - REST APIs
 - SQL
@@ -17,7 +16,6 @@ I'm a Computer Science graduate currently focusing on C# and backend development
 - Azure
 - Git & GitHub
 - Linux
-- Docker
 - Jenkins
 - Azure DevOps
 - Vagrant
